@@ -1,2 +1,2 @@
 # upload-download-
-website upload dan download veresi sederhana 
+website upload dan download versi sederhana 
